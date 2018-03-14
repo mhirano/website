@@ -14,3 +14,5 @@ gem "github-pages", group: :jekyll_plugins
 #   gem "jemoji"
 #   gem "jekyll-algolia"
 # end
+
+gem "jekyll-remote-theme"
