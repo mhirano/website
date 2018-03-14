@@ -1,6 +1,7 @@
 ### https://raw.github.com/github/gitignore/d347c1a1c8f0629376e65297e0e3443f1f5046af/Jekyll.gitignore
 
 _site/
+vendor/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
