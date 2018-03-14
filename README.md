@@ -1,4 +1,4 @@
-# mhirano.github.io
+## My website.
 
-My website. Powered by Jekyll and Minimal Mistakes and hosted by Netlify.
+Powered by Jekyll and Minimal Mistakes and hosted by Netlify.
 
