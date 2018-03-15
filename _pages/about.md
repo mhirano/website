@@ -17,3 +17,4 @@ toc: false
 ---
 
 Masahiro Hirano is a researcher at the University of Tokyo. My research interests lie in the field of computer graphics, computer vision.
+My CV is [here]({{ "/assets/documents/hiranoCV.pdf" | absolute_url }}).
