@@ -1,15 +1,15 @@
 ---
-title: simple 2d physics simulation
+title: ブラウザで簡単な2D物理シミュレーション
 date: 2015-06-03T23:32:28+00:00
 categories:
   - Physics engine
 ---
-matter-jsというライブラリが良さそうなのでメモ．
+
+Gigazineにも紹介されていたmatter-jsというライブラリを用いると，
+ブラウザ上で簡単な2Dシミュレーションができる．
   
 <a href="http://brm.io/matter-js/" target="_blank">http://brm.io/matter-js/</a>
 
-Gigazineにも紹介されていた．
-  
 <a href="http://gigazine.net/news/20150122-matter-js/" target="_blank">http://gigazine.net/news/20150122-matter-js/</a>
 
 matter.jsを使った物理シミュレーションの一番シンプルなやり方
@@ -41,8 +41,9 @@ matter.jsを使った物理シミュレーションの一番シンプルなや�
        Engine.run(engine);
     </script>
    </body>
- </html>
+</html>
 ```
 
-2. index.htmlと同じフォルダに<a href="https://github.com/liabru/matter-js/blob/master/build/matter.js" target="_blank">matter.js</a>を配置．
+{:start="2"}
+2. index.htmlと同じフォルダに<a href="https://github.com/liabru/matter-js/blob/master/build/matter.js" target="_blank">matter.js</a>を配置する．
 3. index.htmlをブラウザで開くと長方形が２つ落下するデモが見れる．
