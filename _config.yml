@@ -15,10 +15,10 @@ title                    : "miscellaneous"
 title_separator          : "|"
 name                     : &name "Masahiro Hirano" # &name is a YAML anchor which can be *referenced later
 description              : &description "intelligence aronud"
-url                      : https://mhirano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://masahirodll.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 #baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mhirano/mhirano.github.io"
+repository               : "mhirano/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -101,8 +101,8 @@ author:
   bio              : "A Ph.D. in Information Science and Technology"
   location         : "University of Tokyo, Japan"
   email            :
-  uri              : "https://mhirano.github.io"
-  home             : "https://mhirano.github.io"
+  uri              : "https://masahirodll.com"
+  home             : "https://masahirodll.com"
   bitbucket        :
   codepen          :
   dribbble         :
