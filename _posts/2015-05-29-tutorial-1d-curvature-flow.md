@@ -1,5 +1,5 @@
 ---
-title: 'Tutorial &#8211; 1D Curvature Flow'
+title: 'Tutorial - 1D Curvature Flow'
 date: 2015-05-29T11:43:47+00:00
 categories:
   - Discrete Differential Geometry

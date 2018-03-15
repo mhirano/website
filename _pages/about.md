@@ -16,4 +16,4 @@ last_modified_at: 2018-03-14
 toc: false
 ---
 
-Masahiro Hirano is a researcher at the University of Tokyo.
+Masahiro Hirano is a researcher at the University of Tokyo. My research interests lie in the field of computer graphics, computer vision.

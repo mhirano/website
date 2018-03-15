@@ -4,7 +4,8 @@ date: 2015-06-02T01:40:49+00:00
 categories:
   - Presentation
 ---
-HTML5プレゼンを作る上で参考にしたサイトを雑多にまとめてます．（自分用）
+
+HTML5ベースのプレゼンがはやってるみたいなので，どうやって実現しているか（とそのフレームワーク）を調査．
 
 HTML5-based presentationならアニメーションをAdobe Edge Animateで簡単に作れる．(<a href="http://therichwebexperience.com/blog/terry_ryan/2012/10/add_edge_animate_compositions_to_reveal_js" target="_blank">http://therichwebexperience.com/blog/terry_ryan/2012/10/add_edge_animate_compositions_to_reveal_js</a>
 
