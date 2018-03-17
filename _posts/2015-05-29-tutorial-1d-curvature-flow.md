@@ -352,8 +352,8 @@ $$\kappa$$を任意に変化させてもこの条件が満たされるとは限�
 ここで導出は行わないが，この条件は以下の様に簡単に書き下せることがわかる．
 \\[ \int_0^L \kappa \gamma = 0 \\]
 つまり，$$\dot{\kappa}$$は，はめ込み写像$$f$$の$$x-, y-$$両座標関数に関して$$L^2$$直交しなければならない．
-要するに，曲率の変化分が曲線の方向によって張られる２次元の線形部分空間への射影が0にならなければいけないということだ．
-\\[ \langle \dot{\kappa_1}, 1 \rangle = \langle \dot{\kappa}, \gamma_x \rangle = \langle \dot{\kappa}, \gamma_y \rangle = 0\\] 
+要するに，曲率の変化分が曲線の方向によって張られる2次元の線形部分空間への射影が0にならなければいけないということだ．
+\\[ \langle \dot{\kappa_1}, 1 \rangle = \langle \dot{\kappa}, \gamma_x \rangle = \langle \dot{\kappa}, \gamma_y \rangle = 0 \\] 
 凸２次エネルギーの時と同様に，線形な拘束条件は非常に扱いやすい．今考えている曲率フローの場合においても，$$\dot{\kappa}$$の成分のなかで「禁止された」空間にいるものを排除してやればよいのだ．
 すなわち，この空間が直交基底$$\{ \hat{c}_i \}$$によって張られたものであるとすると，以下の式$$^{*1}$$で表される曲率$$\dot{\kappa}_c$$を用いればよいのだ．
 \\[ \dot{\kappa}_c = \dot{\kappa} - \sum_1^3 \langle \dot{\kappa}, \hat{c}_i \rangle \hat{c}_i \\] 
