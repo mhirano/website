@@ -2,7 +2,7 @@
 title: Deep learning on Ubuntu 16.04 with Titan X Pascal (Part 2)
 date: 2017-02-20T16:56:15+00:00
 categories:
-  - Deep learning
+  - DeepLearning
 toc: true
 ---
 

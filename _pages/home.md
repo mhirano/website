@@ -33,6 +33,11 @@ intro:
   - excerpt: ''
 ---
 
+<!--
 {% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
+-->
+
+
+## Latest News
+* **3/15**  this webpage launched

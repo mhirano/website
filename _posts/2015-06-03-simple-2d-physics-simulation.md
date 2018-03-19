@@ -2,7 +2,7 @@
 title: ブラウザで簡単な2D物理シミュレーション
 date: 2015-06-03T23:32:28+00:00
 categories:
-  - Physics engine
+  - PhysicsEngine
 ---
 
 Gigazineにも紹介されていたmatter-jsというライブラリを用いると，

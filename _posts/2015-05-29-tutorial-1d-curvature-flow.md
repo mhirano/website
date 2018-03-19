@@ -2,8 +2,7 @@
 title: 'Tutorial - 1D Curvature Flow'
 date: 2015-05-29T11:43:47+00:00
 categories:
-  - Discrete Differential Geometry
-  - Geometry
+  - DiscreteDifferentialGeometry
 ---
 Caltechで開講されていた"Discrete Differential Geometry"という講義の中で，Homeworkとして提示されていたものだが，curvature flow(曲率フロー）の良いチュートリアルでもあるので全訳する．
   

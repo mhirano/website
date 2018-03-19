@@ -7,11 +7,11 @@
 
 remote_theme             : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "miscellaneous"
+title                    : "Masahiro Hirano"
 title_separator          : "|"
 name                     : &name "Masahiro Hirano" # &name is a YAML anchor which can be *referenced later
 description              : &description "intelligence aronud"
