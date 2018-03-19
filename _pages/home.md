@@ -38,6 +38,5 @@ intro:
 {% include feature_row %}
 -->
 
-
 ## Latest News
-* **3/15**  this webpage launched
+*  **2018/3/15** | Webpage launched 
