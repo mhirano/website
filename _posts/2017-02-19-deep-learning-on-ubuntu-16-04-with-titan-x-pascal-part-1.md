@@ -2,7 +2,7 @@
 title: Deep learning on Ubuntu 16.04 with Titan X Pascal (Part 1)
 date: 2017-02-19T12:32:42+00:00
 categories:
-  - Deep learning
+  - DeepLearning
 ---
 「コンシューマ向け最強のデュープラーニング用マシンが欲しいんや！」
 
